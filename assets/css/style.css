@@ -91,6 +91,13 @@ h3 {
   background: #4aaaa5;
 }
 
+.nav-links {
+  display: inline;
+  width: 33.33%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
 nav {
   float: right;
   margin-top: 25px;
